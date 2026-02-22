@@ -10,29 +10,12 @@ In other words, I study data that helps explain *what immune cells are doing*, *
 
 ---
 
-## What you'll find here
-- Single-cell analysis workflows (QC → integration → clustering → annotation → downstream biology)
-- scBCR/BCR repertoire analyses (clonotypes, SHM metrics, convergence signals)
-- Reproducible project templates (clean folder structure, `renv` / conda, scripted runs)
-- Notes and mini-projects aimed at making methods easy to rerun and audit
-
----
-
 ## Selected projects
 - **Pipeline / scRNA-seq analysis:** https://github.com/FilipiDSL/REPO_PIPELINE  
 - **BCR / SHM analysis:** https://github.com/FilipiDSL/REPO_BCR  
 - **Tools / utilities:** https://github.com/FilipiDSL/REPO_TOOLS  
 - **Website (GitHub Pages):** https://FilipiDSL.github.io
-
----
-
-## Links
-- **CV (PDF):** LINK_DO_CV
-- **Google Scholar:** LINK_SCHOLAR
-- **ORCID:** LINK_ORCID
-- **LinkedIn:** LINK_LINKEDIN
-- **Email:** SEU_EMAIL
-
+  
 ---
 
 ## Tech
