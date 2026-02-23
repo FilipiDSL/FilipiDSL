@@ -11,7 +11,5 @@ In other words, I study data that helps explain *what immune cells are doing*, *
 ---
 
 ## Selected projects
-- **Pipeline / scRNA-seq analysis:** https://github.com/FilipiDSL/REPO_PIPELINE  
-- **BCR / SHM analysis:** https://github.com/FilipiDSL/REPO_BCR  
-- **Tools / utilities:** https://github.com/FilipiDSL/REPO_TOOLS  
+- **BCR / SHM analysis:** https://github.com/FilipiDSL/bcr-shm-clonality-pipeline
 - **Website (GitHub Pages):** https://FilipiDSL.github.io
